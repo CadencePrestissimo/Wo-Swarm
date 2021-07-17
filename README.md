@@ -1,6 +1,7 @@
-### EmpowHer was built by All Strings Attached as a part of SheHacks DTU 2021 conducted by CLIMB DTU.
-# EmpowHer
-## A one stop place for all the opportunities and community for women  
+##Website Link: https://wizardly-bassi-711fde.netlify.app/
+
+### Wo-Melee was built by All Strings Attached as a part of SheHacks DTU 2021 conducted by CLIMB DTU.
+# Wo-Melee
   
 ## Implemented Features  
 ---
@@ -16,15 +17,9 @@ Book the Interview with the accomplished people in their fields like Law, resear
     
 Support Our Cause - Interviewee can send some money from her first salary/ stipend/ scholarship to  her mentor/ Interviewer as a token of thanks to keep them motivated and this will encourage more people to participate as interviewers.💵💸      
     
-      
-Download the trained NLP model from (put in the same folder): https://drive.google.com/file/d/1_bdvIkuCZsITJ3hgn7cCmPD79EI7Lkrq/view?usp=sharing
 
----  
+---    
 
-![alt text](https://github.com/Anima108/EmpowHer-AllStringsAttached-SheHacksDTU/blob/main/unknown%20(1).png?raw=true)  
-  
-  
-## Themes/Use Cases: 
 ### Social Good:  
   
 – A lack of diversification in the industries is an ongoing problem and is important to address if we want to create solutions that cater to every section of the population.👩🏽👧🏻👭👩    
@@ -33,7 +28,6 @@ Download the trained NLP model from (put in the same folder): https://drive.goog
     
 – Women understand what fellow women may be going through like imposter syndrome, being under confident, apologizing too much and hence have curated sections like interviews by accomplished women in respective fields, Resume Screening and connecting with female role models to boost their career.✨👩🏾‍🤝‍👩🏼  
     
-![alt text](https://github.com/Anima108/EmpowHer-AllStringsAttached-SheHacksDTU/blob/main/unknown%20(2).png?raw=true)  
   
 
 
