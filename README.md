@@ -1,4 +1,4 @@
-## Website Link: https://wizardly-bassi-711fde.netlify.app/
+### Website Link: https://wizardly-bassi-711fde.netlify.app/
 
 ### Wo-Melee was built by Team Naps in Hack For Inclusion
 # Wo-Melee
@@ -29,15 +29,15 @@ Support Our Cause - Interviewee can send some money from her first salary/ stipe
 – Women understand what fellow women may be going through like imposter syndrome, being under confident, apologizing too much and hence have curated sections like interviews by accomplished women in respective fields, Resume Screening and connecting with female role models to boost their career.✨👩🏾‍🤝‍👩🏼  
     
 ### SetUp:
--Clone the project.
--Run the index.html file 
--Or just visit the link provided above
+-Clone the project. \n
+-Run the index.html file \n 
+-Or just visit the link provided above \n
 
 ### Technologies Used: 
--HTML
--CSS
--Javascript
--Machine Learning
--Python
+-HTML \n
+-CSS \n
+-Javascript \n
+-Machine Learning \n
+-Python \n
 
 
