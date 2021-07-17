@@ -28,6 +28,16 @@ Support Our Cause - Interviewee can send some money from her first salary/ stipe
     
 – Women understand what fellow women may be going through like imposter syndrome, being under confident, apologizing too much and hence have curated sections like interviews by accomplished women in respective fields, Resume Screening and connecting with female role models to boost their career.✨👩🏾‍🤝‍👩🏼  
     
-  
+### SetUp:
+-Clone the project.
+-Run the index.html file 
+-Or just visit the link provided above
+
+### Technologies Used: 
+-HTML
+-CSS
+-Javascript
+-Machine Learning
+-Python
 
 
