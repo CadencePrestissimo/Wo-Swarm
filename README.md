@@ -1,6 +1,6 @@
 ## Website Link: https://wizardly-bassi-711fde.netlify.app/
 
-### Wo-Melee was built by All Strings Attached as a part of SheHacks DTU 2021 conducted by CLIMB DTU.
+### Wo-Melee was built by Team Naps in Hack For Inclusion
 # Wo-Melee
   
 ## Implemented Features  
